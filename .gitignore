@@ -1,0 +1,7 @@
+*.gcda
+*.gcno
+*.o
+main.c
+*.out
+*.so
+.dist/
